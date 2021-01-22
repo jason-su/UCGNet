@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python -u evaluate.py --testiter=80000 
